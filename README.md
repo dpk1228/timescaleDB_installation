@@ -80,7 +80,7 @@ will ask for password type : xyz@scs (or whatever you have use above)
 		'ENGINE': 'django.db.backends.postgresql_psycopg2',
 		'NAME': 'test_db',
 		'USER': 'postgres',
-		'PASSWORD': 'xyz@abc',
+		'PASSWORD': 'xyz@scs',
 		'HOST': 'xx.xx.xx.xx',
 		'PORT': '',
 	    }
